@@ -1,1 +1,2 @@
-yarn start
+npm install
+npm start
